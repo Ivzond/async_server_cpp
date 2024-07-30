@@ -1,0 +1,6 @@
+/home/user/CLionProjects/cpp-async/cmake-build-debug/CMakeFiles/test.dir
+/home/user/CLionProjects/cpp-async/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/CLionProjects/cpp-async/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/CLionProjects/cpp-async/cmake-build-debug/test/CMakeFiles/test.dir
+/home/user/CLionProjects/cpp-async/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/user/CLionProjects/cpp-async/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
